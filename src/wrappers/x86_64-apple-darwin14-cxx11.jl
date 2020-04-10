@@ -8,7 +8,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libsio`
-const libsio_splitpath = ["lib", "libsio.2.13.1.dylib"]
+const libsio_splitpath = ["lib", "libsio.2.13.3.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libsio_path = ""
@@ -22,7 +22,7 @@ const libsio = "@rpath/libsio.2.13.dylib"
 
 
 # Relative path to `liblcio`
-const liblcio_splitpath = ["lib", "liblcio.2.13.1.dylib"]
+const liblcio_splitpath = ["lib", "liblcio.2.13.3.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 liblcio_path = ""
