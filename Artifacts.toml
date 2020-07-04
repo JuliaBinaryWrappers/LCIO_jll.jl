@@ -1,38 +1,19 @@
 [[LCIO]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ee486b54569efe42d58879757ee956ebd89a10c"
+git-tree-sha1 = "8ca70d2381a16f61f6c47f93d0f54890b4dc38c3"
 os = "macos"
 
     [[LCIO.download]]
-    sha256 = "f416bff00c4c12f9f7a75cb4cae11fef3999d15deeac6116577569515baf75f8"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.13.3+0/LCIO.v2.13.3.x86_64-apple-darwin14-cxx11.tar.gz"
-[[LCIO]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3d692041e408b4250f11f7e6e6e73c37a7040642"
-os = "macos"
-
-    [[LCIO.download]]
-    sha256 = "5b8ade99141a42fdd7c83b57b244592522fbcea8ac69efbf4767f2b03cf4453b"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.13.3+0/LCIO.v2.13.3.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "50d577d17480b1f29134287bd66bbec3dc88326e6ded66321160105935758990"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.14.1+0/LCIO.v2.14.1.x86_64-apple-darwin14-cxx11.tar.gz"
 [[LCIO]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6a9b9802008b527e3a5d23c8003641e4b3e326a9"
+git-tree-sha1 = "f796f4b0d5c3160bf71676bf3c997bc921b5fbe5"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "ca55b53f75f13ea43fe371c26ee29f2d5144dfc6151484066e909b69cecabbd5"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.13.3+0/LCIO.v2.13.3.x86_64-linux-gnu-cxx11.tar.gz"
-[[LCIO]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6c9fbac58b6101060c04b457bfd5e39fbbc78fc1"
-libc = "glibc"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "3a36ff804d84f10314a4e3f00e83f9ec0f28c083ed19b1c445dd2f560325b9cd"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.13.3+0/LCIO.v2.13.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d0de86b9010ab1b74089976e318a55a3d639aef2c89eb4dc9d95ca1e0036d58b"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.14.1+0/LCIO.v2.14.1.x86_64-linux-gnu-cxx11.tar.gz"
