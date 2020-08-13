@@ -19,7 +19,7 @@ liblcio_path = ""
 liblcio_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const liblcio = "liblcio.so.2.14"
+const liblcio = "liblcio.so.2.15"
 
 
 # Relative path to `libsio`

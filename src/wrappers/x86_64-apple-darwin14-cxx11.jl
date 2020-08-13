@@ -9,7 +9,7 @@ LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `liblcio`
-const liblcio_splitpath = ["lib", "liblcio.2.14.1.dylib"]
+const liblcio_splitpath = ["lib", "liblcio.2.15.0.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 liblcio_path = ""
@@ -19,7 +19,7 @@ liblcio_path = ""
 liblcio_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const liblcio = "@rpath/liblcio.2.14.dylib"
+const liblcio = "@rpath/liblcio.2.15.dylib"
 
 
 # Relative path to `libsio`
