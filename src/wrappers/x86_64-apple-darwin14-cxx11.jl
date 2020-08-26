@@ -9,7 +9,7 @@ LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `liblcio`
-const liblcio_splitpath = ["lib", "liblcio.2.15.0.dylib"]
+const liblcio_splitpath = ["lib", "liblcio.2.15.3.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 liblcio_path = ""
