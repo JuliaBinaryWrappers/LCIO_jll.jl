@@ -3,13 +3,13 @@ export liblcio, libsio
 
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("LCIO")
-JLLWrappers.@declare_library_product(liblcio, "@rpath/liblcio.2.16.dylib")
+JLLWrappers.@declare_library_product(liblcio, "@rpath/liblcio.2.17.dylib")
 JLLWrappers.@declare_library_product(libsio, "@rpath/libsio.0.0.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll)
     JLLWrappers.@init_library_product(
         liblcio,
-        "lib/liblcio.2.16.1.dylib",
+        "lib/liblcio.2.17.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
