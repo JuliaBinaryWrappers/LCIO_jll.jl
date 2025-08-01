@@ -1,156 +1,116 @@
 [[LCIO]]
 arch = "aarch64"
-git-tree-sha1 = "8bbc2fc3991915f3c39eaf437e38e78645306e72"
+git-tree-sha1 = "b618775fcb573dcea84fbf74db9d2e601472627b"
 os = "macos"
 
     [[LCIO.download]]
-    sha256 = "489db62956c3e7d341f814b47d535bc3bbf67d5c57c99f4fefcbc6bd72e0f304"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "0943c1fde858537c15e9e934a9a0db6a37a270f9774522d7c31be3493cc0d028"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.aarch64-apple-darwin.tar.gz"
 [[LCIO]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea005b84ead7f90c2a7f2439d20753bb96ad92c5"
+git-tree-sha1 = "b303e51763fdab28635229ab72e6aba2a4401960"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "c2ab3890058ade6bfed5bba223da0f22767a8da7c1ec24dac673234ceb5a5a87"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6f8f614ad72eeeed45b8a9fcbde347066cbcc074029ce13a1fe218cc5038825a"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.aarch64-linux-gnu-cxx03.tar.gz"
 [[LCIO]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7af6b00f5d25eaf397b7aa2c2f85cb0cb8f9afa"
+git-tree-sha1 = "f0bf84daa9cbbdc6e99dede1c7705a0fc49b15d3"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "75591d97512dc3ce21ac27283a65f181df1adf36f0167720b0aa6d334a532c01"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.aarch64-linux-gnu-cxx11.tar.gz"
-[[LCIO]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b0db268315612c1af385dda27f26017e811455ca"
-libc = "musl"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "3d2027d47f6891fbc581a0743d1977928c2450e400678bcb38ff3c95bdaa5dfa"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.aarch64-linux-musl-cxx03.tar.gz"
-[[LCIO]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f4d7877b3e8dd1edcaf2e87de4b593bb712afca"
-libc = "musl"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "502581a437079eaa6a20a25d2a04b96632d77fc8b60d3cbaf7522bd3e401710f"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "32d0fd8e7e74d6194c4d87894abdf1ddc6cb6b4de990a5d4e397281315b1909e"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.aarch64-linux-gnu-cxx11.tar.gz"
 [[LCIO]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4dbac394df74025b37d2d18a3ac9b3066cd0dd88"
+git-tree-sha1 = "74150c79cfd862a20dac35aadded15dffd738828"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "b24141d37759a4a39b4e57f9d800155c54ee6edf184ea25221d61104575c817d"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ae50f3f8d2c6c06e3a13702b566eec2b24dfee0bff17bedd85dc3a50190688b2"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.i686-linux-gnu-cxx03.tar.gz"
 [[LCIO]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b89d11f63d984bca4ebe60bf2e4a6fe6991237e"
+git-tree-sha1 = "fbfd4087cb03d6deb7baa4920b2556a89e549ef9"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "b02c5e28c80d351b26ecf7678427d4ca3c6ac210bf725b8637814238b9a1c321"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.i686-linux-gnu-cxx11.tar.gz"
-[[LCIO]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c50ddc0b1a49296075ce14635ad44b7afe525af6"
-libc = "musl"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "7595c3b026d5cb6fffc94fc892d6a50b6d4fa850f09e49616b2d95d8a8dcd157"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.i686-linux-musl-cxx03.tar.gz"
-[[LCIO]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1326f0145f8ffb82df7f9fe93ae0452430c16944"
-libc = "musl"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "99c574b7bf71aba8b91e3301a91740d4ccfeeaf91842dd702e4fdf3dfc6f1fff"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "a0b9a33374b829ddbac840c3fb9d26bee6d871e5099c877b3035af7970ddd5c0"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.i686-linux-gnu-cxx11.tar.gz"
 [[LCIO]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "13bc501bd3ec92101aef07425a4a8845fdb6eaf6"
+git-tree-sha1 = "3e91651abd4b0ddbf5bd346123111f45e13b99a9"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "63a7633cf2a3eb05c679401bfd4701a86c7867ed8ae8dd9cd09b18bad553ece9"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "a5cee1b2cbcba63a4dd251cc9678043d6d96f71a09c865249214391a62202d38"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[LCIO]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e07b8c262d584dd50fdd72cd1bc839f8ad2abd4e"
+git-tree-sha1 = "f94a7f06c5b20469760a2e6171ba65c510ca0c86"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "cf325ca625245360fb6994a39c850d3d07298a2682c067703237575f2f6e24db"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "a18b296a57edfbc723e218af5da5d30e93493e91438d6b38b4a189a2cc73ff6f"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LCIO]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b91e2703a73fdcaaf43bf2570f8c59fee2219a10"
+libc = "glibc"
+os = "linux"
+
+    [[LCIO.download]]
+    sha256 = "a69cac9ec14b8edb503a1f05ea667c2295528510028391021a58da1bcda1bcb7"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.riscv64-linux-gnu-cxx03.tar.gz"
+[[LCIO]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c83b638722f4533218bf7bf56b1f8aebf8efcfca"
+libc = "glibc"
+os = "linux"
+
+    [[LCIO.download]]
+    sha256 = "028f7457bcadb414946374e863e3d02274b89c811f0a6e1ac15e0fbdbd9f8aae"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.riscv64-linux-gnu-cxx11.tar.gz"
 [[LCIO]]
 arch = "x86_64"
-git-tree-sha1 = "d845dd378579d795a7c1ac5cb619770a55e7b014"
+git-tree-sha1 = "44ebb35c2499347425501893a27b47d45eb319ed"
 os = "macos"
 
     [[LCIO.download]]
-    sha256 = "faaff0819846c3738a05d97e5fae1c4c3d80c833e0a99b8908cf0d0c4ca572b3"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "0516a26c7a28843133410c35119b5516df5821f94ed79ff6e9f636436d2c1922"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.x86_64-apple-darwin.tar.gz"
 [[LCIO]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "acdf208a4e15e1b12f82d9fbf9db8535c99cca13"
+git-tree-sha1 = "1cc175631d7338f20b034d4bc792f27d98c086f4"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "a436e547aa201b7093758eb4208965eb2ccab837a97366e500357d40658b8170"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e5a9157208d67d27dacd153ccef04534d143bc743886872f8ed7308ba025e0d5"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.x86_64-linux-gnu-cxx03.tar.gz"
 [[LCIO]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6785a12a38cc11261792df455b4a54a4e440133b"
+git-tree-sha1 = "cc20842f75620c3eeb6b1ea1417d7103d9f6814f"
 libc = "glibc"
 os = "linux"
 
     [[LCIO.download]]
-    sha256 = "f71db0e8312c545e8f99ab12c24d5538d3e4cc670be9535506e54d127a6b53f0"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[LCIO]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2d9a94e2cf238ce003c1a31a40ea5e5b2f7584ed"
-libc = "musl"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "cedae06172038cf57641d8fbfb2d19d4b5c886767b85ab6915b651f64062c17b"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.x86_64-linux-musl-cxx03.tar.gz"
-[[LCIO]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b3efed9076cf29ee2bb7331380b53d0888098ece"
-libc = "musl"
-os = "linux"
-
-    [[LCIO.download]]
-    sha256 = "bc4a91c37e3f6cc1481890aa6e7ab4109e3dc0e95dd0d39ce3ddadb95f84353f"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.17.0+0/LCIO.v2.17.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "0fb28e116907a75e99f418252f76528a7f12fb609501d455ba133ca52825a483"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_jll.jl/releases/download/LCIO-v2.22.6+0/LCIO.v2.22.6.x86_64-linux-gnu-cxx11.tar.gz"

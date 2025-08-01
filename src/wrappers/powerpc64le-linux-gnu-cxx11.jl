@@ -3,8 +3,8 @@ export liblcio, libsio
 
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("LCIO")
-JLLWrappers.@declare_library_product(liblcio, "liblcio.so.2.17")
-JLLWrappers.@declare_library_product(libsio, "libsio.so.0.0")
+JLLWrappers.@declare_library_product(liblcio, "liblcio.so.2.22")
+JLLWrappers.@declare_library_product(libsio, "libsio.so.0.2")
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll)
     JLLWrappers.@init_library_product(
